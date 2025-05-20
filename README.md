@@ -1,5 +1,5 @@
 # TV Explorer
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 **TV Explorer** is an interactive map-based Android app that lets users discover and stream online TV channels from around the world.
 
 ### Features
