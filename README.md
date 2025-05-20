@@ -1,22 +1,29 @@
 # TV Explorer
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-**TV Explorer** is an interactive map-based Android app that lets users discover and stream online TV channels from around the world.
+TV Explorer is a global television map app for Android. It lets users discover and stream online TV channels from all around the world.
 
-### Features
-- Interactive globe or map with location-based TV channel markers
-- Live stream playback
-- Channel information and favorites
-- Integrated search
-- Powered by open-source playlists (e.g., iptv-org)
+## Features
 
-### Technologies
-- Kotlin / Android SDK
+- Interactive globe with clickable city/country markers
+- Live TV stream playback
+- Channel info and favorites
+- M3U playlist support
+- Premium: Multiple playlist support and playlist saving
+- Free version with ads and limited features
+
+## Data Sources
+
+- iptv-org/open-iptv
+- Other open-source M3U playlists
+
+## Technology Stack
+
+- Kotlin (Android)
+- OpenGL / Map library for globe visualization
 - ExoPlayer for streaming
-- OpenStreetMap or globe visualization
-- Channel database parsing
+- Jetpack Compose UI
 
-### Status
-**Alpha version under development.** Public testing starts soon.
+## License
 
-### Contact
-apps.by.etien@gmx.com
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+You are free to use, modify, and distribute this software with proper attribution.
